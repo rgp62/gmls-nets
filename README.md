@@ -8,7 +8,7 @@ N. Trask, R. G. Patel, B. J. Gross, and P. J. Atzberger, "GMLS-Nets: A Framework
 `pip install gmlsnets-tensorflow`
 
 #### Requirements
-`Python >= 3.5`
+`Python >= 3.5`  
 `numpy`  
 `scipy`  
 `matplotlib`  
